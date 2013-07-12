@@ -1,4 +1,6 @@
+
 # weekNo
+[![Build Status](https://travis-ci.org/sideshowcoder/week_no.png?branch=master)](https://travis-ci.org/sideshowcoder/week_no)
 
 Calculate the week number for a given date
 
