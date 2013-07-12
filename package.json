@@ -1,0 +1,20 @@
+{
+  "name": "week_no",
+  "version": "0.0.1",
+  "description": "get the week number for a date",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sideshowcoder/week_no"
+  },
+  "keywords": [
+    "date",
+    "week",
+    "week_number"
+  ],
+  "author": "sideshowcoder",
+  "license": "BSD"
+}
