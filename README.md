@@ -22,7 +22,7 @@ new Date(1972, 0, 5).weekNo() # => 104
 # methods
 
 ``` js
-var subdir = require('subdir')
+require('week_no')
 ```
 
 ## new Date(1970, 0, 5).weekNo()
