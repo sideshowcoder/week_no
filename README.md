@@ -29,6 +29,10 @@ require('week_no')
 
 Return a the number of weeks since `1970-1-5`.
 
+## new Date(1970, 0, 5).weekNoRelative()
+
+Return a the number of weeks since `1970-1-5` modulo 52.
+
 # install
 
 With [npm](https://npmjs.org) do:
